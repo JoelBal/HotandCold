@@ -10,7 +10,7 @@ When typing your City into the Find your City search bar and clicking the search
 ## Constributing
 
 ## Tests
-
+https://github.com/JoelBal/HotandCold.git
 ## Email
 joelbalkcom@gmail.com
 ## githubUsername
